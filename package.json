@@ -6,7 +6,7 @@
     "jade": "~1.0.0",
     "passport": "~0.1.17",
     "passport-local": "~0.1.6",
-    "underscore": "~1.5.2",
+    "underscore": "~1.12.1",
     "validator": "~1.1.1",
     "passport-twitter": "~0.1.4",
     "passport-facebook": "~0.1.5",
